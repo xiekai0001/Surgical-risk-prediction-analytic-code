@@ -1,12 +1,5 @@
 # Analytic Code for Surgical Risk Prediction Model
 
-**Title**: Development and Multicenter Validation of an Objective Surgical Risk Score Using Machine Learning
-
-**Journal**: JAMA Surgery (Submitted)
-
-**Date**: 2026-06-17
-
----
 
 ## Overview
 
@@ -376,7 +369,3 @@ For data access:
 ## Acknowledgments
 
 This research was conducted using the MIMIC-IV database provided by the MIT Laboratory for Computational Physiology.
-
----
-
-**Last Updated**: 2026-06-17
